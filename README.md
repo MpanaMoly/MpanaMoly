@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MpanaMoly
-- 👀 I’m interested in All of IT tech
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning Webgl
 - 💞️ I’m looking to collaborate on Everything
 - 📫 How to reach me : nicolasbertosratsara@gmail.com
